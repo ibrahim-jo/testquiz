@@ -1,0 +1,1 @@
+This is a simple quiz application built using HTML, CSS, and JavaScript. It presents users with multiple-choice questions, tracks their progress, and provides immediate feedback every question have a timer .
